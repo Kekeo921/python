@@ -1,0 +1,4 @@
+2021-01-01 18:00:00 Application Test status Active - srv01
+2021-01-01 18:00:00 Application Test status Down - srv02
+2021-01-01 18:00:00 Application Test status Down - srv03
+2021-01-01 18:00:00 Application Test status Active - srv04
