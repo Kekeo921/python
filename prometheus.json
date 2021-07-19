@@ -1,1 +1,1 @@
-{"values": [{"value": 1, "labels": ["team1", "srv01", "environment"]}, {"value": 0, "labels": ["team1", "srv02", "environment"]}, {"value": 0, "labels": ["team1", "srv03", "environment"]}, {"value": 1, "labels": ["team1", "srv04", "environment"]}]}
+{"values": [{"value": 1, "labels": ["team1", "srv01", "environment"]}, {"value": 0, "labels": ["team1", "srv02", "environment"]}, {"value": 1, "labels": ["team1", "srv03", "environment"]}, {"value": 0, "labels": ["team1", "srv04", "environment"]}]}

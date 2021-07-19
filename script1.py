@@ -21,3 +21,4 @@ for line in statusLines:
 
 prometheusFile = open("prometheus.json", "w+")
 prometheusFile.write(json.dumps(prometheusJson))
+prometheusFile.close()
